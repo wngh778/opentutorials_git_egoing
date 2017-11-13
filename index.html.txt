@@ -21,7 +21,7 @@
 			<li>pull</li>
 			<li>push.egoing</li>
 			<li>pull.leezche</li>
-			<li>comflict</li>
+			<li>comflict.egoing.leezche</li>
 		</ul>
 
 </html>
