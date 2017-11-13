@@ -1,17 +1,17 @@
-<html>
+﻿<html>
 	<head>
-		<title>Git�Ұ�</title>
+		<title>Git소개</title>
 	</head>
 	<body>
 		<header>
 			<h1>Git<h1>
 		</header>
 		<ul>
-			<li>Git�̶�?</li>
-			<li>�����̶�?</li>
-			<li>���⼭ �ѹ� ������?</li>
+			<li>Git이란?</li>
+			<li>버전이란?</li>
+			<li>여기서 한번 더가면?</li>
 			<li>Branch</li>
-			<li>�귣ġ</li>
+			<li>브랜치</li>
 
 		</ul>
 
