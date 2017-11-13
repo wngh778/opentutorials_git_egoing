@@ -1,15 +1,18 @@
 <html>
 	<head>
-		<title>GIT ¼ö¾÷</title>
+		<title>Git¼Ò°³</title>
 	</head>
 	<body>
 		<header>
 			<h1>Git<h1>
 		</header>
+<<<<<<< HEAD
 		<ul>
 			<li>GitÀÌ¶õ?</li>
 			<li>¹öÀüÀÌ¶õ?</li>
 			<li>¿©±â¼­ ÇÑ¹ø ´õ°¡¸é?</li>
 		</ul>
+=======
+>>>>>>> ì‹¤í—˜
 	</body>
 </html>
