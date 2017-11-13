@@ -22,6 +22,7 @@
 			<li>push.egoing</li>
 			<li>pull.leezche</li>
 			<li>comflict.egoing.leezche</li>
+			<li>스테시</li>
 		</ul>
 
 </html>
